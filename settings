@@ -1,0 +1,5 @@
+valid_email = 'a.fevraleva@rambler.ru'
+valid_password = '12345'
+
+invalid_email = 'as.fevralevas@rambler.ru'
+invalid_password = 'saret'
